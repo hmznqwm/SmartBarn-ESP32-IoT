@@ -1,0 +1,16 @@
+# IDE & Local configurations
+.vscode/
+.idea/
+*.local
+
+# Environment & Credentials
+.env
+.env.*
+*.env
+
+# Build & Temporary files
+*.tmp
+*.bak
+*.log
+.DS_Store
+Thumbs.db
