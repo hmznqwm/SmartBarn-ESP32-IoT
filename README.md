@@ -2,6 +2,10 @@
 
 Sistem otomasi dan pemantauan lingkungan kandang ternak cerdas berbasis mikrokontroler ESP32 pada simulator Wokwi.
 
+## Skematik Rangkaian Simulasi Wokwi (ESP32 + HC-SR04 + Servo + DHT22 + MQ-135 + Relay)
+
+![Skematik Rangkaian Wokwi Smart Barn](docs/skematik_wokwi_smartbarn.png)
+
 ---
 
 ## Skema Pin dan Komponen
